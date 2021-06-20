@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="414" height="281" viewBox="0 0 414 281">
+  <defs>
+    <clipPath id="clip-path">
+      <rect x="1179" y="188" width="414" height="281" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="sp-line-footer-cloud" transform="translate(-1179 -188)" clip-path="url(#clip-path)" style="isolation: isolate">
+    <g id="グループ_11" data-name="グループ 11" transform="translate(472 -2899)">
+      <ellipse id="楕円形_8" data-name="楕円形 8" cx="750" cy="150" rx="750" ry="150" transform="translate(600 2899)" fill="#0078bd"/>
+      <ellipse id="楕円形_10" data-name="楕円形 10" cx="750" cy="150" rx="750" ry="150" transform="translate(-472 3068)" fill="#0078bd"/>
+    </g>
+  </g>
+</svg>

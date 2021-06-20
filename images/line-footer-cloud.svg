@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1350" height="281" viewBox="0 0 1350 281">
+  <defs>
+    <clipPath id="clip-path">
+      <rect x="472" y="188" width="1350" height="281" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="line-footer-cloud" transform="translate(0 -3037)">
+    <g id="line-footer-cloud-2" data-name="line-footer-cloud" transform="translate(-472 2849)" clip-path="url(#clip-path)" style="isolation: isolate">
+      <rect id="長方形_49" data-name="長方形 49" width="1350" height="281" transform="translate(472 188)" fill="#fff"/>
+      <g id="グループ_11" data-name="グループ 11" transform="translate(472 -2899)">
+        <ellipse id="楕円形_8" data-name="楕円形 8" cx="750" cy="150" rx="750" ry="150" transform="translate(600 2899)" fill="#0078bd"/>
+        <ellipse id="楕円形_10" data-name="楕円形 10" cx="750" cy="150" rx="750" ry="150" transform="translate(-472 3068)" fill="#0078bd"/>
+      </g>
+    </g>
+  </g>
+</svg>
