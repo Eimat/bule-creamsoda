@@ -37,7 +37,7 @@
   }
 
   .section-keyword h1, .tensen, .catch-copy-sub, .catch-copy {
-    text-align: inherit;
+    text-align: left;
   }
 
   .catch-copy-sub {
